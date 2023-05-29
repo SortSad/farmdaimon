@@ -12,7 +12,7 @@ local queue_on_teleport = syn and syn.queue_on_teleport or queue_on_teleport or 
         end)
     end
 end)
-loadstring(game:HttpGet"https://raw.githubusercontent.com/SortSad/farmdaimon/main/mian2")()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SortSad/farmdaimon/main/.lua'))()
 else
     print("❗ Already Execute ❗")
 end
