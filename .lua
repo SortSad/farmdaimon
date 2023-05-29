@@ -34,7 +34,7 @@ end)
 
 Lib = require(game:GetService("ReplicatedStorage").Library)
 
-wait(6)
+wait(15)
 
 local function serverHop()
     repeat
