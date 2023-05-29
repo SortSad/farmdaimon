@@ -1,0 +1,4 @@
+repeat wait(1) until game:IsLoaded()
+if game.PlaceId == 6284583030 then
+    pcall(function()
+    	loadstring(game:HttpGet('loadstring(game:HttpGet('https://raw.githubusercontent.com/SortSad/farmdaimon/main/.lua'))()'))()
