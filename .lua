@@ -1,5 +1,5 @@
 settingsconfig = {
-    targetmulti = 3,
+    targetmulti = 5,
     breakgiantchest = true,
     breakbigchests = true,
     breakpresents = true,
@@ -12,8 +12,8 @@ settingsconfig = {
 
 while not game:IsLoaded() do wait(1) end
 wait(4)
-targetmulti = 3 -- If The Multiplier Of A Coin Is Higher Or Equal To This It Will Break It
-breakgiantchest = true -- Weather To Break The Giant Mine Chest Even If Its Below The Multi
+targetmulti = 5 -- If The Multiplier Of A Coin Is Higher Or Equal To This It Will Break It
+breakgiantchest = false -- Weather To Break The Giant Mine Chest Even If Its Below The Multi
 breakbigchests = true -- Weather To Break The Big Mine Chests Even If They Are Below The Multi
 WEBHOOK = "https://discord.com/api/webhooks/1111238987621863444/k5WuFyNBZoVivVe-w43FCVTjZxJeOn_VTYNdoEjvkZkf-Oq2ABtC1IlMW84BhEQvqGPd" -- Webhook
 
