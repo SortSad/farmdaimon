@@ -13,7 +13,7 @@ settingsconfig = {
 while not game:IsLoaded() do wait(1) end
 wait(4)
 targetmulti = 5 -- If The Multiplier Of A Coin Is Higher Or Equal To This It Will Break It
-breakgiantchest = false -- Weather To Break The Giant Mine Chest Even If Its Below The Multi
+breakgiantchest = true -- Weather To Break The Giant Mine Chest Even If Its Below The Multi
 breakbigchests = true -- Weather To Break The Big Mine Chests Even If They Are Below The Multi
 WEBHOOK = "https://discord.com/api/webhooks/1111238987621863444/k5WuFyNBZoVivVe-w43FCVTjZxJeOn_VTYNdoEjvkZkf-Oq2ABtC1IlMW84BhEQvqGPd" -- Webhook
 
@@ -34,7 +34,7 @@ end)
 
 Lib = require(game:GetService("ReplicatedStorage").Library)
 
-wait(15)
+wait(5)
 
 local function serverHop()
     repeat
