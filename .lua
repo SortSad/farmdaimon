@@ -7,7 +7,7 @@ settingsconfig = {
     ignorepresents = false,
     autotripledamage = true,
     autoserverdamage = true,
-    webhook = "https://discord.com/api/webhooks/1111238987621863444/k5WuFyNBZoVivVe-w43FCVTjZxJeOn_VTYNdoEjvkZkf-Oq2ABtC1IlMW84BhEQvqGPd"
+    webhook = "https://discord.com/api/webhooks/1113631434209505290/cyzCogrr__UOA18qnKg6cL1SvW5_2GjfMq9t9SifOfOMbKpJCmQ-pEb4Iyx82ODu7mIu"
 }
 
 while not game:IsLoaded() do wait(1) end
@@ -15,7 +15,7 @@ wait(4)
 targetmulti = 5 -- If The Multiplier Of A Coin Is Higher Or Equal To This It Will Break It
 breakgiantchest = true -- Weather To Break The Giant Mine Chest Even If Its Below The Multi
 breakbigchests = true -- Weather To Break The Big Mine Chests Even If They Are Below The Multi
-WEBHOOK = "https://discord.com/api/webhooks/1111238987621863444/k5WuFyNBZoVivVe-w43FCVTjZxJeOn_VTYNdoEjvkZkf-Oq2ABtC1IlMW84BhEQvqGPd" -- Webhook
+WEBHOOK = "https://discord.com/api/webhooks/1113631434209505290/cyzCogrr__UOA18qnKg6cL1SvW5_2GjfMq9t9SifOfOMbKpJCmQ-pEb4Iyx82ODu7mIu" -- Webhook
 
 local oldJob = game.JobId
 
