@@ -96,8 +96,8 @@ function WH()
             ["content"] = "",
             ["embeds"] = {
 			    {
-			      ["title"] = "Server Hop Stat Update",
-			      ["description"] = "Successfully Broke Everything In Server. Hopping To New Server!",
+			      ["title"] = "ควย Hop Stat Update",
+			      ["description"] = "Successfully hop หาพ่อมึงได้แล้ว",
 			      ["color"] = 5814783,
 			      ["fields"] = {
 			        {
@@ -106,7 +106,7 @@ function WH()
 			        }
 			      },
 			      ["author"] = {
-			        ["name"] = "Mystic Farmer - Stats"
+			        ["name"] = "พ่อมึง Farmer - Stats"
 			      }
 			    }
 			  }
