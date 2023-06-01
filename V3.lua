@@ -14,7 +14,7 @@ settingsconfig = {
 	autoserverdamage = true,
 	safetyrange = 500, -- If you are within this much studs as another player it will server hop (set to 0 if you dont want it to do this)
 	webhook = "https://discord.com/api/webhooks/1111238987621863444/k5WuFyNBZoVivVe-w43FCVTjZxJeOn_VTYNdoEjvkZkf-Oq2ABtC1IlMW84BhEQvqGPd",
-    timeframewh = "",
+    timeframewh = "60",
     timeframe = 60 -- Seconds
 }
 
